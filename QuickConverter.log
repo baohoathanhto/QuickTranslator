@@ -1,0 +1,15 @@
+﻿11/17/2015 8:41:30 PM: Could not load file or assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified.
+System.IO.FileNotFoundException
+   at TranslatorEngine.TranslatorEngine.loadLuatNhanDictionary()
+   at TranslatorEngine.TranslatorEngine.loadLuatNhanDictionaryWithNewThread(Object stateInfo)
+   at System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
+11/21/2015 11:07:30 PM: Could not load file or assembly 'System.Core, Version=3.5.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089' or one of its dependencies. The system cannot find the file specified.
+System.IO.FileNotFoundException
+   at TranslatorEngine.TranslatorEngine.loadLuatNhanDictionary()
+   at TranslatorEngine.TranslatorEngine.loadLuatNhanDictionaryWithNewThread(Object stateInfo)
+   at System.Threading._ThreadPoolWaitCallback.WaitCallback_Context(Object state)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallbackInternal(_ThreadPoolWaitCallback tpWaitCallBack)
+   at System.Threading._ThreadPoolWaitCallback.PerformWaitCallback(Object state)
