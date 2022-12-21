@@ -66644,7 +66644,6 @@
 呼火=Hô Hỏa
 血气法=Huyết Khí Pháp
 血魂藤=Huyết Hồn Đằng
-披毛术=Khoác Lông Thuật
 腐心丹=Hủ Tâm Đan
 喇戈=Lạt Qua
 乌鲁=Ô Lỗ
@@ -66717,3 +66716,15 @@
 碎金玉=Toái Kim Ngọc
 鎏金湖=Lưu Kim Hồ
 乌日=Ô Nhật
+驱物术=Khu Vật Thuật
+乌铁石=Ô Thiết Thạch
+火璞玉=Hỏa Phác Ngọc
+望月铁=Vọng Nguyệt Thiết
+昆山砂=Côn Sơn Sa
+阴髓晶=Âm Tủy Tinh
+百草集=Bách Thảo Tập
+丽纳=Lệ Nạp
+琪琪格=Kỳ Kỳ Cách
+披毛术=Phi Mao Thuật
+灵犀香=Linh Tê Hương
+归藏阁=Quy Tàng Các
