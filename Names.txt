@@ -10250,7 +10250,6 @@
 点苍飞凤=Điểm Thương Phi Phượng
 炼丹神师=Luyện Đan Thần Sư
 炼剑经要=Luyện Kiếm Kinh Yếu
-炼器大师=Luyện Khí Đại Sư
 炼器殿中=trong Luyện Khí Điện
 炼器殿内=trong Luyện Khí Điện
 炼器殿前=trước Luyện Khí Điện
@@ -54075,7 +54074,6 @@
 扈阳=Hỗ Dương
 扈雨=Hỗ Vũ
 手塚=Tezuka
-手链=Thủ Liên
 扎克=Trát Khắc/Zack
 扎因=Zain
 扎恩=Zahn
@@ -63783,7 +63781,6 @@
 铭书=Minh Thư
 铭佳=Minh Giai
 铭心=Minh Tâm
-铭牌=Minh Bài
 银凤=Ngân Phượng
 银商=Ngân Thương
 银城=Ngân Thành
@@ -66728,3 +66725,4 @@
 披毛术=Phi Mao Thuật
 灵犀香=Linh Tê Hương
 归藏阁=Quy Tàng Các
+马星空=Mã Tinh Không
