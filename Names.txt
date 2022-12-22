@@ -54010,7 +54010,6 @@
 戈琳=Qua Lâm
 戈瑜=Qua Du
 戈甲=Qua Giáp
-戈登=Gordon
 戈硬=Qua Ngạnh
 戈秀=Qua Tú
 戈貔=Gopi
@@ -64119,7 +64118,6 @@
 阿炳=A Bỉnh
 阿燕=A Yến
 阿特=Adt
-阿狗=A Cẩu
 阿玄=A Huyền
 阿玛=Ama
 阿珂=A Kha
@@ -66726,3 +66724,10 @@
 灵犀香=Linh Tê Hương
 归藏阁=Quy Tàng Các
 马星空=Mã Tinh Không
+黄龙丹=Hoàng Long Đan
+清灵散=Thanh Linh Tán
+金髓丸=Kim Tủy Hoàn
+养精丹=Dưỡng Tinh Đan
+墨居仁=Mặc Cư Nhân
+岚州=Lam Châu
+长春气=Trường Xuân Khí
