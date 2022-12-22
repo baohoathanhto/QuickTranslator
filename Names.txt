@@ -54906,7 +54906,6 @@
 智彬=Trí Bân
 智族=Trí Tộc
 智聪=Trí Thông
-智能=Trí Năng
 智静=Trí Tĩnh
 暄暄=Huyên Huyên
 暖何=Noãn Hà
@@ -66731,3 +66730,6 @@
 墨居仁=Mặc Cư Nhân
 岚州=Lam Châu
 长春气=Trường Xuân Khí
+塔里火山=Tháp Lý Hỏa Sơn
+尸虫丸=Thi Trùng Hoàn
+五毒水=Ngũ Độc Thủy
