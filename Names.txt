@@ -22242,7 +22242,6 @@
 大风翼=Đại Phong Dực
 大风鸟=Đại Phong Điểu
 大魔主=Đại Ma Chủ
-大魔头=Đại Ma Đầu
 大魔导=Đại Ma Đạo
 大魔王=Đại Ma Vương
 大魔门=Đại Ma Môn
@@ -55129,7 +55128,6 @@
 木战=Mộc Chiến
 木族=Mộc Tộc
 木易=Mộc Dịch
-木木=Mộc Mộc
 木村=Kimura
 木林=Mộc Lâm
 木查=Mộc Tra
@@ -66733,3 +66731,15 @@
 塔里火山=Tháp Lý Hỏa Sơn
 尸虫丸=Thi Trùng Hoàn
 五毒水=Ngũ Độc Thủy
+火岩蛇=Hỏa Nham Xà
+炼炉堂=Luyện Lô Đường
+木离=Mộc Ly
+水泽丹=Thủy Trạch Đan
+蓝柯=Lam Kha
+银蛇链=Ngân Xà Liên
+狂蟒劲=Cuồng Mãng Kình
+眨眼剑法=Trát Nhãn Kiếm Pháp
+缠丝手=Triền Ti Thủ
+眨眼剑谱=Trát Nhãn Kiếm Phổ
+金狼=Kim Lang
+贾天龙=Cổ Thiên Long
