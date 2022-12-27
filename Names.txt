@@ -20360,7 +20360,6 @@
 向建林=Hướng Kiến Lâm
 向文礼=Hướng Văn Lễ
 向无踪=Hướng Vô Tung
-向火岩=hướng Hỏa Nham
 向盈盈=Hướng Doanh Doanh
 向紫烟=Hướng Tử Yên
 向贾诩=Hướng Cổ Hủ
@@ -48382,7 +48381,6 @@
 兆琏=Triệu Liễn
 兆辉=Triệu Huy
 先夏=Tiên Hạ
-先天=Tiên Thiên
 先朗=Tiên Lãng
 先秦=Tiền Tần
 光兽=Quang Thú
@@ -57775,7 +57773,6 @@
 炎门=Viêm Môn
 炎阳=Viêm Dương
 炎高=Viêm Cao
-炎魔=Viêm Ma
 炎麒=Viêm Kỳ
 炎黄=Viêm Hoàng
 炙天=Chích Thiên
@@ -66743,3 +66740,11 @@
 眨眼剑谱=Trát Nhãn Kiếm Phổ
 金狼=Kim Lang
 贾天龙=Cổ Thiên Long
+驭兽术=Ngự Thú Thuật
+金睛雕=Kim Tình Điêu
+赤术=Xích Thuật
+律规堂=Luật Quy Đường
+火馋儿=Hỏa Sàm Nhi
+勒贡=Lặc Cống
+火炎晶=Hỏa Viêm Tinh
+塔里炎魔=Tháp Lý Viêm Ma
