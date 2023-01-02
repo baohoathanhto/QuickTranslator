@@ -47177,7 +47177,6 @@
 东河=Đông Hà
 东洋=Đông Dương
 东洲=Đông Châu
-东流=Đông Lưu
 东海=Đông Hải
 东淫=Đông Dâm
 东溟=biển Đông
@@ -48530,7 +48529,6 @@
 兹玛=Tư Mã
 兹莫=Tư Mạc
 兹蒂=Zettie
-兽园=Thú Viên
 兽城=Thú Thành
 兽尊=Thú Tôn
 兽师=Thú Sư
@@ -57663,7 +57661,6 @@
 灰保=Khôi Bảo
 灰市=Hôi Thị
 灰泷=Hôi Lang
-灰熊=Hôi Hùng
 灰界=Hôi Giới
 灰苍=Hôi Thương
 灰草=Hôi Thảo
@@ -58810,7 +58807,6 @@
 白猛=Bạch Mãnh
 白玥=Bạch Nguyệt
 白璎=Bạch Anh
-白璧=Bạch Bích
 白留=Bạch Lưu
 白眉=Bạch Mi
 白福=Bạch Phúc
@@ -63084,7 +63080,6 @@
 车儿=Xa Nhi
 车承=Xa Thừa
 车田=Kurumada
-车辕=Xa Viên
 车骑=Xa Kỵ
 轧吉=Yết Cát
 轧狂=Yết Mãnh
@@ -64922,7 +64917,6 @@
 青沟=Thanh Câu
 青河=Thanh Hà
 青煊=Thanh Huyên
-青牛=Thanh Ngưu
 青猿=Thanh Viên
 青玄=Thanh Huyền
 青珠=Thanh Châu
@@ -66249,7 +66243,6 @@
 铁嘴=Thiết Chủy
 铁臂熊罴=Thiết Tí Hùng Bi
 有熊坤=Hữu Hùng Khôn
-铁背=Thiết Bối
 柳飞絮=Liễu Phi Tự
 盘雷柱=Bàn Lôi Trụ
 粟粟儿=Túc Túc Nhi
@@ -66748,3 +66741,19 @@
 勒贡=Lặc Cống
 火炎晶=Hỏa Viêm Tinh
 塔里炎魔=Tháp Lý Viêm Ma
+莫鲁=Mạc Lỗ
+小小=Tiểu Tiểu
+金书欲孽=Kim Thư Dục Nghiệt
+碧罗功=Bích La Công
+陆通志=Lục Thông Chí
+大晋=Đại Tấn
+西越=Tây Việt
+青袄山=Thanh Áo Sơn
+修行通识=Tu Hành Thông Thức
+七情决=Thất Tình Quyết
+万岭山=Vạn Lĩnh Sơn
+炎晶石=Viêm Tinh Thạch
+大绿=Đại Lục
+大黄=Đại Hoàng
+小花=Tiểu Hoa
+羽阿公=Vũ A Công
