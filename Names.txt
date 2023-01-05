@@ -48052,7 +48052,6 @@
 体师=Thể Sư
 体珠=Thể Châu
 何丽=Hà Lệ
-何乐=Hà Nhạc
 何余=Hà Dư
 何俅=Hà Cầu
 何冰=Hà Băng
@@ -49499,7 +49498,6 @@
 南達=Randa
 南郑=Nam Trịnh
 南都=Nam Đô
-南门=Nam Môn
 南阳=Nam Dương
 南陇=Nam Lũng
 南非=Nam Phi
@@ -50003,7 +50001,6 @@
 吉特=Jeter
 吉瑞=Cát Thụy
 吉田=Yoshida
-吉祥=Cát Tường
 吉科=Jike
 吉米=Jimmy
 吉红=Cát Hồng
@@ -52980,7 +52977,6 @@
 巴靠=Ba Kháo
 巴颜=Ba Nhan
 巴马=Obama/Ba Mã
-巴鲁=Barrou
 巴黎=Paris
 巴龙=Ba Long/Baron
 巾恒=Cân Hằng
@@ -56612,7 +56608,6 @@
 水府=Thủy Phủ
 水族=Thủy Tộc
 水易=Thủy Dịch
-水木=Thủy Mộc
 水柔=Thủy Nhu
 水泽=Thủy Trạch
 水浒=Thủy Hử
@@ -56768,7 +56763,6 @@
 池樱=Trì Anh
 池田=Ikeda
 池稠=Chicho
-汤加=Tonga
 汤姆=Tom
 汤森=Townsend
 汤洁=Thang Khiết
@@ -57611,7 +57605,6 @@
 瀚州=Hãn Châu
 瀚纳=Hana
 瀛洲=Doanh Châu
-灌灵=Quán Linh
 火修=Hỏa Tu
 火儿=Hỏa Nhi
 火兽=Hỏa Thú
@@ -58257,7 +58250,6 @@
 王妍=Vương Nghiên
 王姓=họ Vương
 王婷=Vương Đình
-王子=Vương Tử
 王孙=Vương Tôn
 王安=Vương An
 王宾=Vương Tân
@@ -59046,7 +59038,6 @@
 石麓=Thạch Lộc
 矶崎=Isozaki
 矶部=Isobe
-矿奴=Quáng Nô
 码亚=Maya
 码酒=Mã Tửu
 砍修=Khảm Tu
@@ -59775,7 +59766,6 @@
 粱玉=Lương Ngọc
 粱茜=Lương Thiến
 精刚=Tinh Cương
-精卫=Tinh Vệ
 精忍=Tinh Nhẫn
 精理=Tinh Lý
 精钢=Tinh Cương
@@ -59927,7 +59917,6 @@
 红泪=Hồng Lệ
 红燕=Hồng Yến
 红牛=Red Bull
-红狐=Hồng Hồ
 红狮=Sư Tử Đỏ
 红狼=Sói Hồng
 红窟=Hồng Quật
@@ -66742,7 +66731,6 @@
 火炎晶=Hỏa Viêm Tinh
 塔里炎魔=Tháp Lý Viêm Ma
 莫鲁=Mạc Lỗ
-小小=Tiểu Tiểu
 金书欲孽=Kim Thư Dục Nghiệt
 碧罗功=Bích La Công
 陆通志=Lục Thông Chí
@@ -66757,3 +66745,30 @@
 大黄=Đại Hoàng
 小花=Tiểu Hoa
 羽阿公=Vũ A Công
+卡司族=Tạp Ti Tộc
+青木城=Thanh Mộc Thành
+哈图=Cáp Đồ
+青木族=Thanh Mộc Tộc
+黑火门=Hắc Hỏa Môn
+巴鲁=Ba Lỗ
+铁虎镇=Thiết Hổ Trấn
+青蚨堂=Thanh Phù Đường
+阿木合=A Mộc Hợp
+火晶石=Hỏa Tinh Thạch
+鸡血草=Kê Huyết Thảo
+地母虫=Địa Mẫu Trùng
+鬼脸草=Quỷ Kiểm Thảo
+黑鳞果=Hắc Lân Quả
+阴髓液=Âm Tủy Dịch
+紫芯花=Tử Tâm Hoa
+鬼脸花=Quỷ Kiểm Hoa
+爰水术=Viên Thủy Thuật
+木隐术=Mộc Ẩn Thuật
+木牢术=Mộc Lao Thuật
+灰岩蛇=Hôi Nham Xà
+蒙宁族=Mông Ninh Tộc
+黑水族=Hắc Thủy Tộc
+乌草虫=Ô Thảo Trùng
+果兹族=Quả Tư Tộc
+基兰城=Cơ Lan Thành
+黑虎镇=Hắc Hổ Trấn
