@@ -46559,7 +46559,6 @@
 黑月蓉=Hắc Nguyệt Dung
 黑木崖=Hắc Mộc Nhai
 黑木鸦=Hắc Mộc Nha
-黑松林=Hắc Tùng Lâm
 黑松江=Hắc Tùng Giang
 黑枭王=Hắc Kiêu Vương
 黑格勒=Hegeler
@@ -49272,7 +49271,6 @@
 北向=Bắc Triều
 北周=Bắc Chu
 北国=Bắc Quốc
-北城=thành Bắc
 北域=Bắc Vực
 北堂=Bắc Đường
 北夜=Bắc Dạ
@@ -49394,7 +49392,6 @@
 华特=Ward
 华猛=Hoa Mãnh
 华生=Watson
-华盖=Hoa Cái
 华福=Hoa Phúc
 华筝=Hoa Tranh
 华纳=Warner
@@ -49444,7 +49441,6 @@
 南刻=Nam Khắc
 南华=Nam Hoa
 南后=Nam Hậu
-南城=Nam Thành
 南域=Nam Vực
 南多=Nando
 南天=Nam Thiên
@@ -59847,7 +59843,6 @@
 紫晴=Tử Tình
 紫月=Tử Nguyệt
 紫杉=Tử Sam
-紫枫=Tử Phong
 紫殛=Tử Cức
 紫浩=Tử Hạo
 紫灵=Tử Linh
@@ -63590,7 +63585,6 @@
 金牛=Kim Ngưu
 金犀=Kim Tê
 金猊=Kim Nghê
-金猿=Kim Viên
 金环=Kim Hoàn
 金琳=Kim Lâm
 金田=Kim Điền
@@ -65325,7 +65319,6 @@
 马邑=Mã Ấp
 马里=Mã Lý
 马钰=Mã Ngọc
-马隆=Mã Long
 马面=Mã Diện
 马风=Mã Phong
 马高=Mã Cao
@@ -65411,7 +65404,6 @@
 高阳=Cao Dương
 高雄=Cao Hùng
 高顺=Cao Thuận
-高马=Cao Mã
 高鲁=Caorou
 高鹤=Cao Hạc
 鬼三=Quỷ Tam
@@ -65984,7 +65976,6 @@
 龙傲=Long Ngạo
 龙兽=Long Thú
 龙凡=Long Phàm
-龙凤=Long Phượng
 龙刚=Long Cương
 龙剑=Long Kiếm
 龙劲=Long Kình
@@ -66772,3 +66763,13 @@
 果兹族=Quả Tư Tộc
 基兰城=Cơ Lan Thành
 黑虎镇=Hắc Hổ Trấn
+兽奴堂=Thú Nô Đường
+红芯灵桃=Hồng Tâm Linh Đào
+千芦湖=Thiên Lô Hồ
+紫枫林=Tử Phong Lâm
+黑松林=Hắc Tùng Lâm
+黑纹毒蟾=Hắc Văn Độc Thiềm
+满都拉图=Mãn Đô Lạp Đồ
+铁犁木=Thiết Lê Mộc
+林俊生=Lâm Tuấn Sinh
+葛术=Cát Thuật
