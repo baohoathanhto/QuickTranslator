@@ -34978,7 +34978,6 @@
 百东液=Bách Đông Dịch
 百丽儿=Bách Lệ Nhi
 百乐门=Bách Nhạc Môn
-百会穴=huyệt Bách Hội
 百兽院=Bách Thú Viện
 百凡殿=Bách Phàm Điện
 百凤刀=Bách Phượng Đao
@@ -51451,7 +51450,6 @@
 妖牛=Yêu Ngưu
 妖皇=Yêu Hoàng
 妖莲=Yêu Liên
-妖藤=Yêu Đằng
 妖虎=Yêu Hổ
 妖虫=Yêu Trùng
 妖蚁=Yêu Nghĩ
@@ -58325,7 +58323,6 @@
 王瑶=Vương Dao
 王甲=Vương Giáp
 王皓=Vương Hạo
-王盘=Vương Bàn
 王眉=Vương Mi
 王石=Vương Thạch
 王磊=Vương Lỗi
@@ -60935,7 +60932,6 @@
 苍兰=Thương Lan
 苍坤=Thương Khôn
 苍月=Thương Nguyệt
-苍松=Thương Tùng
 苍梧=Thương Ngô
 苍浩=Thương Hạo
 苍渊=Thương Uyên
@@ -66773,3 +66769,9 @@
 铁犁木=Thiết Lê Mộc
 林俊生=Lâm Tuấn Sinh
 葛术=Cát Thuật
+黄栗丸=Hoàng Lật Hoàn
+绿斑蛇=Lục Ban Xà
+绿斑毒蛇=Lục Ban Độc Xà
+百会=Bách Hội
+红衫岭=Hồng Sam Lĩnh
+贡嘎=Cống Dát
