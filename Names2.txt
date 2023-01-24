@@ -213,3 +213,9 @@
 王通译=Vương thông dịch
 高账房=Cao trưởng phòng
 晋文=Tấn văn
+袁小友=Viên tiểu hữu
+袁大爷=Viên đại gia
+袁将军=Viên tướng quân
+中原人士=Trung Nguyên nhân sĩ
+尤老板=Vưu lão bản
+犬牙神像=Khuyển Nha thần tượng

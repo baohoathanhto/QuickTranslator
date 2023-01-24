@@ -18279,7 +18279,6 @@
 刀疤仔=Đao Ba Tử
 刀疤六=Đao Ba Lục
 刀疤狼=Đao Ba Lang
-刀疤男=Đao Ba Nam
 刀白凤=Đao Bạch Phượng
 刀神将=Đao Thần Tướng
 刀罡球=Đao Cương Cầu
@@ -24301,7 +24300,6 @@
 小百合=Sayuri
 小皓晨=tiểu Hạo Thần
 小石城=Little Rock
-小石头=Tiểu Thạch Đầu
 小石殿=Tiểu Thạch Điện
 小穷峰=Tiểu Cùng Phong
 小竹峰=Tiểu Trúc Phong
@@ -47325,7 +47323,6 @@
 丹麥=Đan Mạch
 丹麦=Đan Mạch
 为雁=Vi Nhạn
-主殿=Chủ Điện
 主神=Chủ Thần
 主麻=Juma
 丽丝=Lise
@@ -47405,7 +47402,6 @@
 乌金=Ô Kim
 乌霄=Ô Tiêu
 乌飞=Ô Phi
-乌鸦=Ô Nha
 乍得=Chad
 乐书=Nhạc Thư
 乐休=Nhạc Hưu
@@ -49981,7 +49977,6 @@
 吉妮=Jinny
 吉姆=Cát Mẫu/Jim
 吉姓=Cát Mẫu
-吉娜=Gina
 吉安=Jihane
 吉尔=Cát Nhĩ
 吉恩=Jean
@@ -51255,7 +51250,6 @@
 太昌=Thái Xương
 太森=Thái Sâm
 太洲=Thái Châu
-太清=Thái Thanh
 太湖=Thái Hồ
 太田=Rangu
 太白=Thái Bạch
@@ -52368,7 +52362,6 @@
 小娟=tiểu Quyên
 小婉=Tiểu Uyển
 小婧=tiểu Tịnh
-小婵=tiểu Thiền
 小媚=tiểu Mị
 小嫣=Tiểu Yên
 小孟=tiểu Mạnh
@@ -52382,7 +52375,6 @@
 小帝=Tiểu Đế
 小广=Tiểu Nghiễm
 小廖=tiểu Liêu
-小开=Tiểu Khai
 小张=tiểu Trương
 小归=Tiểu Quy
 小彩=Tiểu Thải
@@ -52401,7 +52393,6 @@
 小敏=tiểu Mẫn
 小斌=Tiểu Bân
 小斐=Tiểu Phỉ
-小方=tiểu Phương
 小明=tiểu Minh
 小昭=tiểu Chiêu
 小智=Tiểu Trí
@@ -55645,7 +55636,6 @@
 杨枵=Dương Hiêu
 杨柯=Dương Kha
 杨柳=Dương Liễu
-杨树=Dương Thụ
 杨桐=Dương Đồng
 杨森=Dương Sâm
 杨欣=Dương Hân
@@ -56119,7 +56109,6 @@
 桂珍=Quế Trân
 桂英=Quế Anh
 桂萼=Quế Ngạc
-桃叶=Đào Diệp
 桃山=Đào Sơn
 桃岭=Đào Lĩnh
 桃桃=Đào Đào
@@ -58030,7 +58019,6 @@
 猎园=Liệp Viên
 猎国=Liệp Quốc
 猎日=Liệp Nhật
-猎狗=Liệp Cẩu
 猎莫=Liệp Mạc
 猎鉴=Liệp Giám
 猎魔=Liệp Ma
@@ -58153,7 +58141,6 @@
 玉燕=Ngọc Yến
 玉狐=Ngọc Hồ
 玉玫=Ngọc Mân
-玉环=Ngọc Hoàn
 玉玲=Ngọc Linh
 玉珑=Ngọc Lung
 玉琪=Ngọc Kỳ
@@ -58801,7 +58788,6 @@
 白程=Bạch Trình
 白筠=Bạch Quân
 白羊=Bạch Dương
-白羽=Bạch Vũ
 白胜=Bạch Thắng
 白芝=Bạch Chi
 白莲=Bạch Liên
@@ -59014,7 +59000,6 @@
 石砀=Thạch Nãng
 石笛=Thạch Địch
 石笠=Thạch Lạp
-石符=Thạch Phù
 石芙=Thạch Phù
 石蛤=Thạch Cáp
 石言=Thạch Ngôn
@@ -62002,7 +61987,6 @@
 虚易=Hư Dịch
 虚武=Hư Vũ
 虚游=Hư Du
-虚灵=Hư Linh
 虚界=Hư Giới
 虚真=Hư Chân
 虚神=Hư Thần
@@ -63277,7 +63261,6 @@
 道特=Đạo Đặc
 道王=Đạo Vương
 道盟=Đạo Minh
-道符=Đạo Phù
 道羽=Đạo Vũ
 達利=Tauri
 達夫=Dauf
@@ -65843,7 +65826,6 @@
 黄雄=Hoàng Hùng
 黄靖=Hoàng Tĩnh
 黄鲍=Hoàng Bảo
-黄鸟=Hoàng Điểu
 黄鹏=Hoàng Bằng
 黄龙=Hoàng Long
 黎丝=Lê Ti
@@ -66466,7 +66448,6 @@
 纯阳诛仙剑阵=Thuần Dương Tru Tiên Kiếm Trận
 诛仙剑阵=Tru Tiên Kiếm Trận
 纯阳诛仙阵=Thuần Dương Tru Tiên Trận
-黄木=Hoàng Mộc
 白宵天=Bạch Tiêu Thiên
 神木林=Thần Mộc Lâm
 巫蛮儿=Vu Man Nhi
@@ -66775,3 +66756,51 @@
 百会=Bách Hội
 红衫岭=Hồng Sam Lĩnh
 贡嘎=Cống Dát
+血头鳄=Huyết Đầu Ngạc
+阴元芝=Âm Nguyên Chi
+狮鳞兽=Sư Lân Thú
+地行妖=Địa Hành Yêu
+化土石=Hóa Thổ Thạch
+红芯桃树=Hồng Tâm Đào Thụ
+暖阁温玉=Noãn Các Ôn Ngọc
+紫芯花粉=Tử Tâm Hoa Phấn
+乌蒙=Ô Mông
+火地须=Hỏa Địa Tu
+软骨功=Nhuyễn Cốt Công
+敛息功=Liễm Tức Công
+伪匿术=Ngụy Nặc Thuật
+火玉髓=Hỏa Ngọc Tủy
+白羽渡鸦=Bạch Vũ Độ Nha
+融魂符=Dung Hồn Phù
+劈空掌=Phách Không Chưởng
+魔银手=Ma Ngân Thủ
+哈库=Cáp Khố
+苗花寨=Miêu Hoa Trại
+苗家寨=Miêu Gia Trại
+土方山=Thổ Phương Sơn
+图娅=Đồ Á
+寒阴霜=Hàn Âm Sương
+吉娜=Cát Na
+阴鬼旗=Âm Quỷ Kỳ
+肉骨丹=Nhục Cốt Đan
+风捷术=Phong Tiệp Thuật
+小婵=Tiểu Thiền
+流苏=Lưu Tô
+扎朗=Trát Lãng
+夕影=Tịch Ảnh
+白玉石脂=Bạch Ngọc Thạch Chi
+僵蚕丝=Cương Tàm Ti
+玉肌散=Ngọc Cơ Tán
+续断花=Tục Đoạn Hoa
+王顺=Vương Thuận
+白集镇=Bạch Tập Trấn
+吉祥坊=Cát Tường Phường
+山河赌坊=Sơn Hà Đổ Phường
+乌桑=Ô Tang
+尤猪渣=Vưu Trư Tra
+九里山=Cửu Lý Sơn
+九里庙=Cửu Lý Miếu
+犬牙神=Khuyển Nha Thần
+辛香石=Tân Hương Thạch
+松木粉=Tùng Mộc Phấn
+嘎龙=Dát Long
