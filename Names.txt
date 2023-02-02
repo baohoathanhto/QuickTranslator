@@ -3653,7 +3653,6 @@
 东乙神木=Đông Ất Thần Mộc
 东伏帝君=Đông Phục Đế Quân
 东南明堂=Đông Nam Minh Đường
-东南西北=Đông Nam Tây Bắc
 东厢斋戒=Đông Sương Trai Giới
 东吴鲁肃=Đông Ngô Lỗ Túc
 东商卫城=Đông Thương Vệ Thành
@@ -17670,7 +17669,6 @@
 兰特斯=Lan Đặc Tư
 兰素素=Lan Tố Tố
 兰紫衫=Lan Tử Sam
-兰花指=Lan Hoa Chỉ
 兰花镇=Lan Hoa Trấn
 兰若寺=Lan Nhược Tự
 兰若心=Lan Nhược Tâm
@@ -24056,7 +24054,6 @@
 寒冰指=Hàn Băng Chỉ
 寒冰斩=Hàn Băng Trảm
 寒冰洞=Hàn Băng Động
-寒冰潭=Hàn Băng Đàm
 寒冰珠=Hàn Băng Châu
 寒冰盾=Hàn Băng Thuẫn
 寒冰系=Hàn Băng Hệ
@@ -26906,7 +26903,6 @@
 执法使=Chấp Pháp Sứ
 执法堂=Chấp Pháp Đường
 执法殿=Chấp Pháp Điện
-执法队=Chấp Pháp Đội
 执行者=Chấp Hành Giả
 扫黑组=Tảo Hắc Tổ
 扬 ·=Jan ·
@@ -33007,7 +33003,6 @@
 灵犀诀=Linh Tê Quyết
 灵珠子=Linh Châu Tử
 灵眼术=Linh Nhãn Thuật
-灵石了=Linh Thạch
 灵符师=Linh Phù Sư
 灵级殿=Linh Cấp Điện
 灵缈园=Linh Miểu Viên
@@ -43183,7 +43178,6 @@
 阴魔斩=Âm Ma Trảm
 阴魔杀=Âm Ma Sát
 阴魔门=Âm Ma Môn
-阵法师=Trận Pháp Sư
 阶跃进=Giai Dược Tiến
 阿 炅=A Cảnh
 阿 诺=A Nặc
@@ -46593,7 +46587,6 @@
 黑玄丝=Hắc Huyền Ti
 黑玉蚕=Hắc Ngọc Tằm
 黑王鹰=Hắc Vương Ưng
-黑甲卫=Hắc Giáp Vệ
 黑甲山=Hắc Giáp Sơn
 黑甲蜥=Hắc Giáp Tích
 黑皇城=Hắc Hoàng Thành
@@ -47386,7 +47379,6 @@
 乌恒=Ô Hằng
 乌恩=Ô Ân
 乌战=Ô Chiến
-乌拉=Ulla
 乌斯=Ouse
 乌来=Ô Lai
 乌果=Ô Quả
@@ -47650,7 +47642,6 @@
 五冬=Oudone
 五哥=Ngũ Ca
 五境=Ngũ Cảnh
-五宗=Ngũ Tông
 五岭=Ngũ Lĩnh
 五岳=Ngũ Nhạc
 五川=Ngũ Xuyên
@@ -48441,7 +48432,6 @@
 六竹=Lục Trúc
 六脉=Lục Mạch
 六花=Lục Hoa
-六道=Lục Đạo
 六阴=Lục Âm
 六院=Lục Viện
 兰丝=Lan Ti
@@ -48526,7 +48516,6 @@
 兽尊=Thú Tôn
 兽师=Thú Sư
 兽族=Thú Tộc
-兽王=Thú Vương
 冀儿=Ký Nhi
 冀州=Ký Châu
 内丽=Nélie
@@ -49266,7 +49255,6 @@
 北向=Bắc Triều
 北周=Bắc Chu
 北国=Bắc Quốc
-北域=Bắc Vực
 北堂=Bắc Đường
 北夜=Bắc Dạ
 北太=Bắc Thái
@@ -49436,7 +49424,6 @@
 南刻=Nam Khắc
 南华=Nam Hoa
 南后=Nam Hậu
-南域=Nam Vực
 南多=Nando
 南天=Nam Thiên
 南夷=Nam Di
@@ -52276,7 +52263,6 @@
 寒煞=Hàn Sát
 寒燕=Hàn Yến
 寒狰=Hàn Tranh
-寒玉=Hàn Ngọc
 寒空=Hàn Không
 寒翠=Hàn Thúy
 寒芯=Hàn Tâm
@@ -53586,7 +53572,6 @@
 彩藓=Thải Tiển
 彩藕=Thải Lân
 彩蝶=Thải Điệp
-彩衣=Thải Y
 彩鳙=Thải Dong
 彩鳞=Thải Lân
 彭克=Penck
@@ -58825,7 +58810,6 @@
 皇天=Hoàng Thiên
 皇宫=Hoàng Cung
 皇尊=Hoàng Tôn
-皇帝=Hoàng Đế
 皇廷=Hoàng Đình
 皇普=Hoàng Phổ
 皇极=Hoàng Cực
@@ -58907,7 +58891,6 @@
 盛耀=Thịnh Diệu
 盛辉=Thịnh Huy
 盛龙=Thịnh Long
-盟会=Minh Hội
 盟渊=Minh Uyên
 盧恩=Rune
 盧西=Lucy
@@ -59126,7 +59109,6 @@
 神佛=Thần Phật
 神农=Thần Nông
 神印=Thần Ấn
-神台=Thần Thai
 神品=Thần Phẩm
 神墓=Thần Mộ
 神宗=Thần Tông
@@ -61183,7 +61165,6 @@
 茱迪=Judy
 茴香=Hồi Hương
 茵儿=Nhân Nhi
-茵茵=Nhân Nhân
 茶义=Thuyên Nghĩa
 茶信=Thuyên Tín
 茶名=Thuyên Danh
@@ -63823,7 +63804,6 @@
 长盘=Trường Bàn
 长胜=Trường Thắng
 长蛟=Trường Giao
-长角=Trường Giác
 长野=Trường Dã
 长陵=Trường Lăng
 长顺=Trường Thuận
@@ -66804,3 +66784,49 @@
 辛香石=Tân Hương Thạch
 松木粉=Tùng Mộc Phấn
 嘎龙=Dát Long
+火球术=Hỏa Cầu Thuật
+小媛=Tiểu Viện
+燃爆术=Nhiên Bạo Thuật
+白鹿丘=Bạch Lộc Khâu
+寒晶=Hàn Tinh
+白炎精金=Bạch Viêm Tinh Kim
+桑颜=Tang Nhan
+青剑术=Thanh Kiếm Thuật
+木盾术=Mộc Thuẫn Thuật
+黑岩城=Hắc Nham Thành
+刘天明=Lưu Thiên Minh
+青岩会=Thanh Nham Hội
+黑背蜥蜴=Hắc Bối Tích Dịch
+血翼蝙蝠=Huyết Dực Biên Bức
+奇石录=Kỳ Thạch Lục
+碧罗铺=Bích La Phô
+黑火阁=Hắc Hỏa Các
+碧落铺=Bích Lạc Phô
+百毒窟=Bách Độc Quật
+兽王派=Thú Vương Phái
+青岩阁=Thanh Nham Các
+纹松灵木=Văn Tùng Linh Mộc
+火锥剑=Hỏa Chùy Kiếm
+火铜精=Hỏa Đồng Tinh
+火炼=Hỏa Luyện
+长仙楼=Trường Tiên Lâu
+冰魄石=Băng Phách Thạch
+烈阳茶=Liệt Dương Trà
+烈阳草=Liệt Dương Thảo
+卓玲玲=Trác Linh Linh
+玉露茶=Ngọc Lộ Trà
+寒铁石=Hàn Thiết Thạch
+九寒花=Cửu Hàn Hoa
+阴玉如意=Âm Ngọc Như Ý
+练腑散=Luyện Phủ Tán
+火箭符=Hỏa Tiễn Phù
+风刃符=Phong Nhận Phù
+火蛇符=Hỏa Xà Phù
+青光罩=Thanh Quang Tráo
+巨力符=Cự Lực Phù
+金刚符=Kim Cương Phù
+阴玉=Âm Ngọc
+白龙岛=Bạch Long Đảo
+乌拉=Ô Lạp
+六道=Lục Đạo
+卓琳琳=Trác Lâm Lâm
