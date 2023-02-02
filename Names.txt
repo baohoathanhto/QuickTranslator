@@ -52425,7 +52425,6 @@
 小狄=tiểu Địch
 小猪=Tiểu Trư
 小玄=Tiểu Huyền
-小玉=Tiểu Ngọc
 小玖=Tiểu Cửu
 小珂=tiểu Kha
 小班=Tiểu Ban
@@ -62262,7 +62261,6 @@
 西拉=Sirah
 西摩=Seymour
 西斯=Sys
-西方=Tây Phương
 西施=Tây Thi
 西旗=Tây Kỳ
 西昂=Sion
@@ -66830,3 +66828,14 @@
 乌拉=Ô Lạp
 六道=Lục Đạo
 卓琳琳=Trác Lâm Lâm
+水云幡=Thủy Vân Phiên
+千机面具=Thiên Cơ Mặt Nạ
+千幻=Thiên Huyễn
+青玄香=Thanh Huyền Hương
+养神香=Dưỡng Thần Hương
+玄化观=Huyền Hóa Quan
+斩风散盟=Trảm Phong Tán Minh
+破军散盟=Phá Quân Tán Minh
+百战散盟=Bách Chiến Tán Minh
+白夜散盟=Bạch Dạ Tán Minh
+白夜=Bạch Dạ
