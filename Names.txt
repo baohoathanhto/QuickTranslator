@@ -65375,7 +65375,6 @@
 鬼宗=Quỷ Tông
 鬼峰=Quỷ Phong
 鬼嵘=Quỷ Vanh
-鬼市=Quỷ Thị
 鬼帅=Quỷ Soái
 鬼帝=Quỷ Đế
 鬼幽=Quỷ U
@@ -66839,3 +66838,19 @@
 百战散盟=Bách Chiến Tán Minh
 白夜散盟=Bạch Dạ Tán Minh
 白夜=Bạch Dạ
+缠香丝=Triền Hương Ti
+铁奴=Thiết Nô
+幻时=Huyễn Thì
+鬼哭峡=Quỷ Khốc Hạp
+金花毒蟒=Kim Hoa Độc Mãng
+金花蟒王=Kim Hoa Mãng Vương
+拓哲=Thác Triết
+避障珠=Tị Chướng Châu
+毒影=Độc Ảnh
+青钢尸=Thanh Cương Thi
+阵道杂论=Trận Đạo Tạp Luận
+四方封灵符=Tứ Phương Phong Linh Phù
+火岩盾=Hỏa Nham Thuẫn
+鎏金纱=Lưu Kim Sa
+鎏金蚕=Lưu Kim Tằm
+软金石=Nhuyễn Kim Thạch
