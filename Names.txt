@@ -16431,7 +16431,6 @@
 仇雕泗=Cừu Điêu Tứ
 仇霸天=Cừu Phách Thiên
 介川宏=Giới Xuyên Hồng
-他心通=Tha Tâm Thông
 他郧十=Tha Vân Thập
 付一笑=Phó Nhất Tiếu
 付东民=Phó Đông Dân
@@ -26903,7 +26902,6 @@
 执法使=Chấp Pháp Sứ
 执法堂=Chấp Pháp Đường
 执法殿=Chấp Pháp Điện
-执行者=Chấp Hành Giả
 扫黑组=Tảo Hắc Tổ
 扬 ·=Jan ·
 扬克尔=Jancker
@@ -32729,7 +32727,6 @@
 滕青山=Đằng Thanh Sơn
 滕青虎=Đằng Thanh Hổ
 滕青雨=Đằng Thanh Vũ
-滚犊子=Cổn Độc Tử
 滚石拳=Cổn Thạch Quyền
 满月酒=Mãn Nguyệt Tửu
 满江红=Mãn Giang Hồng
@@ -47047,7 +47044,6 @@
 万象=Vạn Tượng
 万豪=Vạn Hào
 万达=Vanda
-万骨=Vạn Cốt
 三丰=Tam Phong
 三亚=Sanya
 三元=Tam Nguyên
@@ -51063,7 +51059,6 @@
 天乙=Thiên Ất
 天书=Thiên Thư
 天京=Thiên Kinh
-天人=Thiên Nhân
 天仙=Thiên Tiên
 天位=Thiên Vị
 天使=Thiên Sứ
@@ -52288,7 +52283,6 @@
 寿山=Thọ Sơn
 封严=Phong Nghiêm
 封余=Phong Dư
-封侯=Phong Hầu
 封听=Phong Thính
 封弈=Phong Dịch
 封正=Phong Chính
@@ -60249,7 +60243,6 @@
 美綴=Mitsuzuri
 美红=Mỹ Hồng
 美纶=Mỹ Luân
-美美=Mỹ Mỹ
 美荷=Mỹ Hà
 美莎=Mesa
 美菊=Mỹ Cúc
@@ -65836,7 +65829,6 @@
 黑山=Hắc Sơn
 黑岩=Hắc Nham
 黑木=Hắc Mộc
-黑水=Hắc Thủy
 黑河=Hắc Hà
 黑泽=Kurosawa
 黑海=Hắc Hải
@@ -66854,3 +66846,15 @@
 鎏金纱=Lưu Kim Sa
 鎏金蚕=Lưu Kim Tằm
 软金石=Nhuyễn Kim Thạch
+极寒符文=Cực Hàn Phù Văn
+疾风符文=Tật Phong Phù Văn
+疾风符=Tật Phong Phù
+火鬣蜥=Hỏa Liệp Tích
+蛇王谷=Xà Vương Cốc
+避瘴珠=Tị Chướng Châu
+莽豚=Mãng Đồn
+白蓉=Bạch Dung
+坤沙=Khôn Sa
+虎尾蜂=Hổ Vĩ Phong
+黄泉树=Hoàng Tuyền Thụ
+阴陵泉=Âm Lăng Tuyền
