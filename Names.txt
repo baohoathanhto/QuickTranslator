@@ -51752,7 +51752,6 @@
 娜丝=Na Ti [Nath]
 娜塔=Nata
 娜妮=Nanni
-娜拉=Nala
 娜杰=Nadjie
 娜沙=Nasha
 娜美=Nami
@@ -66862,3 +66861,14 @@
 赤印镜=Xích Ấn Kính
 果戈=Quả Qua
 地游符=Địa Du Phù
+查哈=Tra Cáp
+薛家堡=Tiết Gia Bảo
+撼山锤=Hám Sơn Chùy
+火球符=Hỏa Cầu Phù
+水箭符=Thủy Tiễn Phù
+岩刺符=Nham Thứ Phù
+木刺符=Mộc Thứ Phù
+骨图=Cốt Đồ
+蛇王洞=Xà Vương Động
+锁阴阵=Tỏa Âm Trận
+娜拉=Na Lạp
