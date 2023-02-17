@@ -2649,7 +2649,6 @@
 金星银环蛇=Kim Tinh Rắn Cạp Nong
 金晴雪龙狮=Kim Tình Tuyết Long Sư
 金晶流波丹=Kim Tinh Lưu Ba Đan
-金木水火土=Kim Mộc Thủy Hỏa Thổ
 金母珊瑚沙=Kim Mẫu Cát San Hô
 金毛猴兽王=Kim Mao Hầu Thú Vương
 金毛黑妖王=Kim Mao Hắc Yêu Vương
@@ -4882,7 +4881,6 @@
 凝气归流=Ngưng Khí Quy Lưu
 凝聚无息=Ngưng Tụ Vô Tức
 几火云阁=Kỷ Hỏa Vân Các
-凡人修仙=Phàm Nhân Tu Tiên
 凡人外传=Phàm Nhân Ngoại Truyện
 凡尘念珠=Phàm Trần Niệm Châu
 凡提斯塔=Phàm Đề Tư Tháp
@@ -35066,7 +35064,6 @@
 的及巡=Tổ Kiểm Tra
 的天吴=Đích Thiên Ngô
 的天明=Thiên Minh
-的星辉=Tinh Huy
 皇九极=Hoàng Cửu Cực
 皇仙气=Hoàng Tiên Khí
 皇天门=Hoàng Thiên Môn
@@ -40283,7 +40280,6 @@
 解思索=Giải Tư Tác
 解明嫣=Giải Minh Yên
 解晋元=Giải Tấn Nguyên
-解毒丹=Giải Độc Đan
 解燕白=Giải Yến Bạch
 解缙元=Giải Tấn Nguyên
 解脱曲=Giải Thoát Khúc
@@ -41584,7 +41580,6 @@
 轻灵符=Khinh Linh Phù
 轻王侯=Khinh Vương Hầu
 轻身术=Khinh Thân Thuật
-轻身符=Khinh Thân Phù
 轻音阁=Khinh Âm Các
 辖雁门=Hạt Nhạn Môn
 辛双清=Tân Song Thanh
@@ -49096,7 +49091,6 @@
 前田=Maeda
 剑云=Kiếm Vân
 剑五=Kiếm Ngũ
-剑仙=Kiếm Tiên
 剑令=Kiếm Lệnh
 剑六=Kiếm Lục
 剑冢=Kiếm Trủng
@@ -50491,7 +50485,6 @@
 啊绀=A Cám
 啊铁=A Thiết
 啸天=Khiếu Thiên
-啸月=Tiếu Nguyệt
 啼魂=Đề Hồn
 啾巴=Chuuba
 喀利=Khách Lợi
@@ -51239,7 +51232,6 @@
 太苍=Thái Thương
 太行=Thái Hành
 太郎=Thái Lang
-太阴=Thái Âm
 夫差=Phù Sai
 夫朗=Frans
 夭夜=Yêu Dạ
@@ -52543,7 +52535,6 @@
 尘峰=Trần Phong
 尘悟=Trần Ngộ
 尘真=Trần Chân
-尚书=Thượng Thư
 尚伽=Xanga
 尚全=Thượng Toàn
 尚杰=Thượng Kiệt
@@ -54990,7 +54981,6 @@
 月剑=Nguyệt Kiếm
 月力=Nguyệt Lực
 月勾=Nguyệt Câu
-月华=Nguyệt Hoa
 月姬=Nguyệt Cơ
 月娥=Nguyệt Nga
 月婵=Nguyệt Thiền
@@ -57664,7 +57654,6 @@
 灵珠=Linh Châu
 灵琳=Linh Lâm
 灵界=Linh Giới
-灵盈=Linh Doanh
 灵穗=Linh Tuệ
 灵穴=Linh Huyệt
 灵米=Linh Mễ
@@ -58800,7 +58789,6 @@
 皇上=Hoàng Thượng
 皇品=Hoàng Phẩm
 皇天=Hoàng Thiên
-皇宫=Hoàng Cung
 皇尊=Hoàng Tôn
 皇廷=Hoàng Đình
 皇普=Hoàng Phổ
@@ -60026,7 +60014,6 @@
 绿儿=Lục Nhi
 绿山=Lục Sơn
 绿柳=Lục Liễu
-绿气=Lục Khí
 绿翘=Lục Kiều
 绿芊=Lục Thiên
 绿荷=Lục Hà
@@ -66039,7 +66026,6 @@
 定元舍利=Định Nguyên Xá Lợi
 无量净土=Vô Lượng Tịnh Thổ
 万里青云阵=Vạn Lý Thanh Vân Trận
-养尸袋=Túi Dưỡng Thi
 四象天时大阵=Tứ Tượng Thiên Thời Đại Trận
 玉辉杖=Ngọc Huy Trượng
 雪花幻镜=Tuyết Hoa Huyễn Kính
@@ -66229,7 +66215,6 @@
 涡旋法则=Lốc Xoáy Pháp Tắc
 孙大圣=Tôn Đại Thánh
 雷浪穿云=Lôi Lãng Xuyên Vân
-当头一棒=Đương Đầu Nhất Bổng
 明王=Minh Vương
 太极图桉=Thái Cực Đồ Án
 涂山童=Đồ Sơn Đồng
@@ -66872,3 +66857,25 @@
 蛇王洞=Xà Vương Động
 锁阴阵=Tỏa Âm Trận
 娜拉=Na Lạp
+腐尸毒=Hủ Thi Độc
+天蛇=Thiên Xà
+封尸钉=Phong Thi Đinh
+楚国=Sở Quốc
+赶尸派=Cản Thi Phái
+控尸符=Khống Thi Phù
+阴蛇草=Âm Xà Thảo
+筑基丹=Trúc Cơ Đan
+御石珠=Ngự Thạch Châu
+紫炎旗=Tử Viêm Kỳ
+九天陨铁=Cửu Thiên Vẫn Thiết
+封灵符=Phong Linh Phù
+镇尸符=Trấn Thi Phù
+火赤铜=Hỏa Xích Đồng
+炼药堂=Luyện Dược Đường
+三星山=Tam Tinh Sơn
+陈苍穹=Trần Thương Khung
+凌宋华=Lăng Tống Hoa
+宋华=Tống Hoa
+白马少年行=Bạch Mã Thiếu Niên Hành
+雾萱草=Vụ Huyên Thảo
+幻灵丹=Huyễn Linh Đan
