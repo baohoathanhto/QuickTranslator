@@ -66879,3 +66879,8 @@
 白马少年行=Bạch Mã Thiếu Niên Hành
 雾萱草=Vụ Huyên Thảo
 幻灵丹=Huyễn Linh Đan
+金华丹=Kim Hoa Đan
+长仙令=Trường Tiên Lệnh
+山珍楼=Sơn Trân Lâu
+百里醉=Bách Lý Túy
+破晓=Phá Hiểu
