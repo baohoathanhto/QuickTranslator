@@ -189,8 +189,6 @@
 韩大天才=Hàn đại thiên tài
 丈二和尚=Trượng Nhị hòa thượng
 厉大师兄=Lệ đại sư huynh
-二洞主=Nhị động chủ
-大洞主=Đại động chủ
 铁大哥=Thiết đại ca
 燕姑娘=Yến cô nương
 燕府=Yến phủ
@@ -242,3 +240,12 @@
 古兄=Cổ huynh
 卓道友=Trác đạo hữu
 毛道友=Mao đạo hữu
+马小友=Mã tiểu hữu
+欧兄=Âu huynh
+大洞主=Đại động chủ
+二洞主=Nhị động chủ
+大长老=Đại trưởng lão
+二长老=Nhị trưởng lão
+毛兄=Mao huynh
+夕某=Tịch mỗ
+陈道友=Trần đạo hữu

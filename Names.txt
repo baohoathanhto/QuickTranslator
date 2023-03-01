@@ -9857,7 +9857,6 @@
 洞天之宝=Động Thiên Chi Bảo
 洞天养灵=Động Thiên Dưỡng Linh
 洞天法宝=Động Thiên Pháp Bảo
-洞天福地=Động Thiên Phúc Địa
 洞天鼠王=Động Thiên Thử Vương
 洞察之术=Động Sát Chi Thuật
 洞察先机=Động Sát Tiên Cơ
@@ -10222,7 +10221,6 @@
 灵霄宝殿=Linh Tiêu Bảo Điện
 灵髓之体=Linh Tủy Chi Thể
 灵魂之都=Linh Hồn Chi Đô
-灵魂冲击=Linh Hồn Trùng Kích
 灵魂晶脑=Linh Hồn Tinh Não
 灵魂束缚=Linh Hồn Thúc Trói
 灵魂治愈=Linh Hồn Trị Dũ
@@ -22189,7 +22187,6 @@
 大罗天=Đại La Thiên
 大罗派=Đại La Phái
 大罗界=Đại La Giới
-大聪明=Đại Thông Minh
 大肚鱼=Đại Bụng Ngư
 大胜集=Chợ Đại Thắng
 大腹公=Đại Phúc Công
@@ -33082,7 +33079,7 @@
 炼血术=Luyện Huyết Thuật
 炼身坛=Luyện Thân Đàn
 炼阳手=Luyện Dương Thủ
-炼魂壶=Luyện Hồn Bình
+炼魂壶=Luyện Hồn Hũ
 炼魂山=Luyện Hồn Sơn
 炼魂师=Luyện Hồn Sư
 炼魂珠=Luyện Hồn Châu
@@ -47017,7 +47014,6 @@
 万佛=Vạn Phật
 万俊=Vạn Tuấn
 万俟=Mặc Kỳ
-万兽=Vạn Thú
 万冬=Vạn Đông
 万凤=Vạn Phượng
 万妙=Vạn Diệu
@@ -52828,7 +52824,6 @@
 巧云=Xảo Vân
 巧织=Xảo Chức
 巨户=Cự Hộ
-巨牛=Cự Ngưu
 巨犀=Cự Tê
 巨狰=Cự Tranh
 巨蛇=Cự Xà
@@ -53870,7 +53865,6 @@
 惠虹=Huệ Hồng
 惠风=Huệ Phong
 惠鸣=Huệ Minh
-愈发=càng
 愈风=Dũ Phong
 意宗=Ý Tông
 意珠=Ý Châu
@@ -54607,7 +54601,6 @@
 明泽=Münzer
 明海=Minh Hải
 明特=Münter
-明秀=Minh Tú
 明穗=Minh Tuệ
 明美=Minh Mỹ
 明翼=Minh Dực
@@ -56546,7 +56539,6 @@
 气海=Khí Hải
 气魂=Khí Hồn
 水七=Thủy Thất
-水云=Thủy Vân
 水什=Thủy Thần
 水冬=Thủy Đông
 水千=Thủy Thiên
@@ -56566,7 +56558,6 @@
 水眼=Thủy Nhãn
 水竹=Thủy Trúc
 水笙=Thủy Sanh
-水系=Thủy Hệ
 水能=Thủy Năng
 水虎=Thủy Hổ
 水蚜=Thủy Nha
@@ -61778,7 +61769,6 @@
 蓝晶=Lam Tinh
 蓝暾=Lam Thôn
 蓝曦=Lam Hi
-蓝月=Lam Nguyệt
 蓝杏=Lam Hạnh
 蓝林=Lam Lâm
 蓝枫=Lam Phong
@@ -61977,7 +61967,6 @@
 虾仁=Hà Nhi
 蚁王=Kiến Vương
 蚁皇=Nghĩ Hoàng
-蚂蟥=Con Đỉa
 蚊族=Văn Tộc
 蚩尤=Xi Vưu
 蚩融=Xi Dung
@@ -62010,7 +61999,6 @@
 蛮师=Man Sư
 蛮洲=Man Châu
 蛮熊=Man Hùng
-蛮牛=Man Ngưu
 蛮王=Man Vương
 蛮神=Man Thần
 蛮罗=Man La
@@ -62982,7 +62970,6 @@
 趙琳=Triệu Lâm
 趣蛙=Quiggle
 跃峰=Dược Phong
-跗骨=Phụ Cốt
 路仑=Lộ Lôn
 路克=Lộ Khắc
 路加=Luke
@@ -64315,7 +64302,6 @@
 陕西=Thiểm Tây
 院使=Viện Sử
 院牌=Viện Bài
-陨星=Vẫn Tinh
 陳倩=Trần Thiến
 陳平=Trần Bình
 陳曦=Trần Hi
@@ -64859,13 +64845,11 @@
 青雨=Thanh Vũ
 青霜=Thanh Sương
 青霞=Thanh Hà
-青颜=Thanh Nhan
 青风=Thanh Phong
 青鬼=Thanh Quỷ
 青鸾=Thanh Loan
 青鸿=Thanh Hồng
 青鹤=Thanh Hạc
-青龙=Thanh Long
 靓颖=Tịnh Dĩnh
 靖仇=Tĩnh Cừu
 靖安=Tĩnh An
@@ -66906,3 +66890,19 @@
 欧吉=Âu Cát
 碧罗=Bích La
 毛利红=Mao Lợi Hồng
+碧落洞=Bích Lạc Động
+葵水神雷=Quỳ Thủy Thần Lôi
+龙溪=Long Khê
+龙灏=Long Hạo
+吴国=Ngô Quốc
+罗氏=La Thị
+青流寰转大阵=Thanh Lưu Hoàn Chuyển Đại Trận
+火灵隼=Hỏa Linh Chuẩn
+苦轮剑=Khổ Luân Kiếm
+火炼峰=Hỏa Luyện Phong
+乌寒锥=Ô Hàn Chùy
+沙浩=Sa Hạo
+血灵刀=Huyết Linh Đao
+禁神符=Cấm Thần Phù
+果果=Quả Quả
+肖影=Tiêu Ảnh
