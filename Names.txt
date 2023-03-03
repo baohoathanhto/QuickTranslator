@@ -64849,7 +64849,6 @@
 青鬼=Thanh Quỷ
 青鸾=Thanh Loan
 青鸿=Thanh Hồng
-青鹤=Thanh Hạc
 靓颖=Tịnh Dĩnh
 靖仇=Tĩnh Cừu
 靖安=Tĩnh An
@@ -66906,3 +66905,15 @@
 禁神符=Cấm Thần Phù
 果果=Quả Quả
 肖影=Tiêu Ảnh
+蛮动=Man Động
+妙西=Diệu Tây
+赛罕=Tái Hãn
+李追=Lý Truy
+晋皇=Tấn Hoàng
+红莲岛=Hồng Liên Đảo
+五脏丹=Ngũ Tạng Đan
+青云鹤=Thanh Vân Hạc
+雷州=Lôi Châu
+迷心果=Mê Tâm Quả
+青灵传音符=Thanh Linh Truyền Âm Phù
+偷天鼎=Thâu Thiên Đỉnh
