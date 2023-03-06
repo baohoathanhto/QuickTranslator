@@ -65802,7 +65802,6 @@
 黑炎=Hắc Viêm
 黑牢=Hắc Lao
 黑狱=Hắc Ngục
-黑猪=Hắc Trư
 黑猫=Hắc Miêu
 黑獒=Hắc Ngao
 黑王=Hắc Vương
@@ -66810,8 +66809,6 @@
 鎏金蚕=Lưu Kim Tằm
 软金石=Nhuyễn Kim Thạch
 极寒符文=Cực Hàn Phù Văn
-疾风符文=Tật Phong Phù Văn
-疾风符=Tật Phong Phù
 火鬣蜥=Hỏa Liệp Tích
 蛇王谷=Xà Vương Cốc
 避瘴珠=Tị Chướng Châu
@@ -66917,3 +66914,4 @@
 迷心果=Mê Tâm Quả
 青灵传音符=Thanh Linh Truyền Âm Phù
 偷天鼎=Thâu Thiên Đỉnh
+金纹豹=Kim Văn Báo

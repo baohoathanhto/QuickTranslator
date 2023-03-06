@@ -258,3 +258,6 @@
 肖小友=Tiêu tiểu hữu
 青山居士=Thanh Sơn cư sĩ
 马兄=Mã huynh
+龙道友=Long đạo hữu
+凌前辈=Lăng tiền bối
+李前辈=Lý tiền bối
