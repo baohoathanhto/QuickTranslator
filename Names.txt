@@ -5659,7 +5659,6 @@
 吞山大圣=Thôn Sơn Đại Thánh
 吞月天狼=Thôn Nguyệt Thiên Lang
 吞海大圣=Thôn Hải Đại Thánh
-吞纳天地=Thôn Nạp Thiên Địa
 吞食天地=Thôn Thực Thiên Địa
 吞魂噬魄=Thôn Hồn Phệ Phách
 启天老人=Khải Thiên Lão Nhân
@@ -6229,7 +6228,6 @@
 多首魔蟒=Nhiều Đầu Ma Mãng
 多马尔坦=Dommartin
 多马施克=Domaschke
-夜尽天明=Dạ Tẫn Thiên Minh
 夜月斩法=Dạ Nguyệt Trảm Pháp
 夜火明珠=Dạ Hỏa Minh Châu
 夜阳王朝=Dạ Dương Vương Triều
@@ -22113,7 +22111,6 @@
 大天师=Đại Thiên Sư
 大学府=Đại Học Phủ
 大安山=Đại An Sơn
-大宗师=Đại Tông Sư
 大小乔=đại Kiều
 大岚天=Đại Lam Thiên
 大峨山=Đại Nga Sơn
@@ -25609,7 +25606,6 @@
 弄焰诀=Lộng Diễm Quyết
 弑圣者=Thí Thánh Giả
 弑神戒=Thí Thần Giới
-引兽香=Dẫn Thú Hương
 引凤楼=Dẫn Phượng Lầu
 引导术=Dẫn Đạo Thuật
 引气丹=Dẫn Khí Đan
@@ -47073,7 +47069,6 @@
 三蝎=Tam Hạt
 三霄=Tam Tiêu
 三高=Trường Số 3
-上元=Thượng Nguyên
 上党=Thượng Đảng
 上帝=Thượng Đế
 上清=Thượng Thanh
@@ -48535,7 +48530,6 @@
 冥帝=Minh Đế
 冥星=Minh Tinh
 冥昱=Minh Dục
-冥月=Minh Nguyệt
 冥步=Minh Bộ
 冥河=Minh Hà
 冥洱=Minh Nhị
@@ -48748,7 +48742,6 @@
 凝婴=Ngưng Anh
 凝梦=Ngưng Mộng
 凝气=Ngưng Khí
-凝液=Ngưng Dịch
 凝瑜=Ngưng Du
 凝芳=Ngưng Phương
 凝莫=Nimmo
@@ -51186,7 +51179,6 @@
 天隼=Thiên Chuẩn
 天雄=Thiên Hùng
 天雅=Thiên Nhã
-天雷=Thiên Lôi
 天霸=Thiên Bá
 天青=Thiên Thanh
 天音=Thiên Âm
@@ -52269,7 +52261,6 @@
 封余=Phong Dư
 封听=Phong Thính
 封弈=Phong Dịch
-封正=Phong Chính
 封玉=Phong Ngọc
 封王=Phong Vương
 封砻=Phong Lung
@@ -52883,7 +52874,6 @@
 巴斯=Bath
 巴朗=Balan
 巴本=Papen
-巴林=Ba Lâm (Ballin)
 巴格=Bagge
 巴洛=Ba Lạc
 巴烈=Ba Liệt
@@ -53418,7 +53408,6 @@
 张掖=Trương Dịch
 张敏=Trương Mẫn
 张敬=Trương Kính
-张文=Trương Văn
 张斌=Trương Bân
 张斩=Trương Trảm
 张昊=Trương Hạo
@@ -56216,7 +56205,6 @@
 梦蒂=Monty
 梦蝶=Mộng Điệp
 梦貘=Mộng Mô
-梦遥=Mộng Diêu
 梦雅=Mộng Nhã
 梦露=Monroe
 梦魔=Mộng Ma
@@ -57499,7 +57487,6 @@
 潇潜=Tiêu Tiềm
 潇炎=Tiêu Viêm
 潇陵=Tiêu Lăng
-潋滟=Liễm Diễm
 潘安=Phan An
 潘恩=Phan Ân
 潘泽=Panzer
@@ -59133,7 +59120,6 @@
 神魄=Thần Phách
 神鸟=Thần Điểu
 神鼎=Thần Đỉnh
-祠堂=Từ Đường
 祥东=Tường Đông
 祥瓒=Tường Toản
 祭塔=Tế Tháp
@@ -59409,7 +59395,6 @@
 秦黎=Tần Lê
 秽多=Eta
 稀兔=Cybunny
-稀客=Schiko
 程乾=Trình Càn
 程仪=Trình Nghi
 程元=Trình Nguyên
@@ -62201,7 +62186,6 @@
 西唐=Tây Đường
 西嘶=Hissi
 西土=Tây Thổ
-西域=Tây Vực
 西夏=Tây Hạ
 西天=Tây Thiên
 西奥=Theo
@@ -63519,7 +63503,6 @@
 金荣=Kim Vinh
 金莎=Kim Toa
 金虎=Kim Hổ
-金蛇=Kim Xà
 金蛛=Kim Chu
 金蛟=Kim Giao
 金蝉=Kim Thiền
@@ -66477,7 +66460,6 @@
 飞鸟堂=Phi Điểu Đường
 聚宝堂=Tụ Bảo Đường
 外刃堂=Ngoại Nhận Đường
-供奉堂=Cung Phụng Đường
 血刃堂=Huyết Nhận Đường
 长老会=Trưởng Lão Hội
 彩霞山脉=Thải Hà Sơn Mạch
@@ -66935,3 +66917,50 @@
 吴料=Ngô Liêu
 嘎鲁=Dát Lỗ
 胡喇=Hồ Lạt
+傅庆=Phó Khánh
+巴林=Ba Lâm
+广利=Quảng Lợi
+广利散盟=Quảng Lợi Tán Minh
+许长青=Hứa Trường Thanh
+柳苏=Liễu Tô
+林六木=Lâm Lục Mộc
+绿云镇=Lục Vân Trấn
+九环金刀=Cửu Hoàn Kim Đao
+谷河=Cốc Hà
+吴旭明=Ngô Húc Minh
+铜皮丹=Đồng Bì Đan
+柳心宗=Liễu Tâm Tông
+铭儿=Minh Nhi
+烈国=Liệt Quốc
+宁城=Ninh Thành
+玄化=Huyền Hóa
+百香酒=Bách Hương Tửu
+紫玄香=Tử Huyền Hương
+筑基香=Trúc Cơ Hương
+青露茶=Thanh Lộ Trà
+孔冰=Khổng Băng
+铁云观=Thiết Vân Quan
+白龙商会=Bạch Long Thương Hội
+天水胶=Thiên Thủy Giao
+白林=Bạch Lâm
+七步倒=Thất Bộ Đảo
+蓝蜥=Lam Tích
+漩涡兽=Tuyền Qua Thú
+千针鱼=Thiên Châm Ngư
+千结水绳阵=Thiên Kết Thủy Thừng Trận
+避水符=Tị Thủy Phù
+千结水绳=Thiên Kết Thủy Thừng
+火松木=Hỏa Tùng Mộc
+赤血枝=Xích Huyết Chi
+白元竹=Bạch Nguyên Trúc
+安魂香=An Hồn Hương
+迷香=Mê Hương
+雾香=Vụ Hương
+引兽香=Dẫn Thú Hương
+养身香=Dưỡng Thân Hương
+河口镇=Hà Khẩu Trấn
+除疫庙=Trừ Dịch Miếu
+望海崖=Vọng Hải Nhai
+火元宗=Hỏa Nguyên Tông
+赤火心法=Xích Hỏa Tâm Pháp
+藏元术=Tàng Nguyên Thuật
