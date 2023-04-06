@@ -52722,7 +52722,6 @@
 峨眉=Nga Mi
 崆峒=Không Động
 崇侯=Sùng Hầu
-崇山=Sùng Sơn
 崇文=Sùng Văn
 崇焕=Sùng Hoán
 崇祯=Sùng Trinh
@@ -61854,7 +61853,6 @@
 藤崇=Đằng Sùng
 藤榜=Đằng Bảng
 藤田=Fujita
-藤甲=Đằng Giáp
 藤禹=Đằng Vũ
 藤葵=Đằng Quỳ
 藤车=Đằng Xa
@@ -66590,7 +66588,6 @@
 炎晶石=Viêm Tinh Thạch
 大绿=Đại Lục
 大黄=Đại Hoàng
-小花=Tiểu Hoa
 羽阿公=Vũ A Công
 卡司族=Tạp Ti Tộc
 青木城=Thanh Mộc Thành
@@ -67043,3 +67040,15 @@
 古慧=Cổ Tuệ
 古秋阳=Cổ Thu Dương
 赤蝶香=Xích Điệp Hương
+何文道=Hà Văn Đạo
+星儿=Tinh Nhi
+云落山脉=Vân Lạc Sơn Mạch
+风萱花=Phong Huyên Hoa
+伏地杵=Phục Địa Xử
+石典=Thạch Điển
+雷雨=Lôi Vũ
+土元盾=Thổ Nguyên Thuẫn
+青铜雷纹阵=Thanh Đồng Lôi Văn Trận
+臧元术=Tang Nguyên Thuật
+合液丹=Hợp Dịch Đan
+凝华丹=Ngưng Hoa Đan
