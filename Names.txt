@@ -63457,7 +63457,6 @@
 金牛=Kim Ngưu
 金犀=Kim Tê
 金猊=Kim Nghê
-金环=Kim Hoàn
 金琳=Kim Lâm
 金田=Kim Điền
 金眼=Kim Nhãn
@@ -67052,3 +67051,4 @@
 臧元术=Tang Nguyên Thuật
 合液丹=Hợp Dịch Đan
 凝华丹=Ngưng Hoa Đan
+柳叶连环刀=Liễu Diệp Liên Hoàn Đao
