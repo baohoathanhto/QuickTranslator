@@ -351,3 +351,15 @@
 戌时=giờ Tuất
 亥时=giờ Hợi
 陆某=Lục mỗ
+许师弟=Hứa sư đệ
+陆道友=Lục đạo hữu
+余堂主=Dư đường chủ
+王师妹=Vương sư muội
+莫师兄=Mạc sư huynh
+华仙子=Hoa tiên tử
+余道友=Dư đạo hữu
+鲁道友=Lỗ đạo hữu
+鲁姓=họ Lỗ
+崔道友=Thôi đạo hữu
+崔姓=họ Thôi
+姜某=Khương mỗ

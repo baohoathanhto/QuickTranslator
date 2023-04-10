@@ -50516,7 +50516,6 @@
 四感=Tứ Cảm
 四明=Tứ Minh
 四毛=Tứ Mao
-四海=Tứ Hải
 四狗=Tứ Cẩu
 四界=Tứ Giới
 四脉=Tứ Mạch
@@ -52425,7 +52424,6 @@
 小艺=Tiểu Nghệ
 小艾=Tiểu Ngải
 小芝=tiểu Chi
-小芸=tiểu Vân
 小芹=tiểu Cần
 小茹=Tiểu Như
 小莫=Tiểu Mạc
@@ -67052,3 +67050,19 @@
 合液丹=Hợp Dịch Đan
 凝华丹=Ngưng Hoa Đan
 柳叶连环刀=Liễu Diệp Liên Hoàn Đao
+真水环=Chân Thủy Hoàn
+肖九=Tiêu Cửu
+化元丹=Hóa Nguyên Đan
+还月花=Hoàn Nguyệt Hoa
+四象茶楼=Tứ Tượng Trà Lâu
+熔火炼=Dong Hỏa Luyện
+惑心钟=Hoặc Tâm Chuông
+小芸=Tiểu Vân
+余青立=Dư Thanh Lập
+张智=Trương Trí
+通都城=Thông Đô Thành
+高乾=Cao Kiền
+海湘=Hải Tương
+白程楠=Bạch Trình Nam
+姜熊=Khương Hùng
+北漠=Bắc Mạc
