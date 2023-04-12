@@ -66914,7 +66914,6 @@
 赤血枝=Xích Huyết Chi
 白元竹=Bạch Nguyên Trúc
 安魂香=An Hồn Hương
-雾香=Vụ Hương
 引兽香=Dẫn Thú Hương
 养身香=Dưỡng Thân Hương
 河口镇=Hà Khẩu Trấn
@@ -67023,7 +67022,6 @@
 万木箭诀=Vạn Mộc Tiễn Quyết
 万兽真鉴=Vạn Thú Chân Giám
 鳞齿虎=Lân Xỉ Hổ
-天香拍卖会=Thiên Hương Đấu Giá Hội
 定神符=Định Thần Phù
 七鬼噬魂大法=Thất Quỷ Phệ Hồn Đại Pháp
 红油花=Hồng Du Hoa
@@ -67066,3 +67064,14 @@
 白程楠=Bạch Trình Nam
 姜熊=Khương Hùng
 北漠=Bắc Mạc
+羽化城=Vũ Hóa Thành
+火雀门=Hỏa Tước Môn
+千剑阁=Thiên Kiếm Các
+灵符宗=Linh Phù Tông
+三雷阵=Tam Lôi Trận
+天宇楼=Thiên Vũ Lâu
+青立=Thanh Lập
+望月城=Vọng Nguyệt Thành
+固土符=Cố Thổ Phù
+狄晨=Địch Thần
+狄月=Địch Nguyệt
