@@ -371,3 +371,11 @@
 张兄=Trương huynh
 余兄=Dư huynh
 许管事=Hứa quản sự
+左前辈=Tả tiền bối
+宋师祖=Tống sư tổ
+左道友=Tả đạo hữu
+吕城主=Lữ thành chủ
+王道友=Vương đạo hữu
+宋前辈=Tống tiền bối
+许大师=Hứa đại sư
+廖管事=Liêu quản sự
