@@ -56182,7 +56182,6 @@
 梦莲=Mộng Liên
 梦萍=Mộng Bình
 梦蒂=Monty
-梦蝶=Mộng Điệp
 梦貘=Mộng Mô
 梦雅=Mộng Nhã
 梦露=Monroe
@@ -67113,3 +67112,18 @@
 寒月藤=Hàn Nguyệt Đằng
 银光珠=Ngân Quang Châu
 绝影针=Tuyệt Ảnh Châm
+五行幻灭阵=Ngũ Hành Huyễn Diệt Trận
+千机水绳阵=Thiên Cơ Thủy Thừng Trận
+困仙阵=Khốn Tiên Trận
+小困仙阵=Tiểu Khốn Tiên Trận
+锁魂珠=Tỏa Hồn Châu
+观水镜=Quan Thủy Kính
+乌玄铁=Ô Huyền Thiết
+绿水琥珀=Lục Thủy Hổ Phách
+山魄珠=Sơn Phách Châu
+雪菁丹=Tuyết Tinh Đan
+玄玉功=Huyền Ngọc Công
+浣心诀=Hoán Tâm Quyết
+紫玄=Tử Huyền
+奇越=Kỳ Việt
+宏尚=Hoành Thượng
