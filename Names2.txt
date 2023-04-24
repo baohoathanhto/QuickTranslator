@@ -380,3 +380,9 @@
 许大师=Hứa đại sư
 廖管事=Liêu quản sự
 左某=Tả mỗ
+柏大师=Bách đại sư
+七爷=Thất gia
+雷霆小队=Lôi Đình tiểu đội
+血影小队=Huyết Ảnh tiểu đội
+血影队长=Huyết Ảnh đội trưởng
+如雷队=như Lôi Đội
