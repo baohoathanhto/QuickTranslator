@@ -386,3 +386,8 @@
 血影小队=Huyết Ảnh tiểu đội
 血影队长=Huyết Ảnh đội trưởng
 如雷队=như Lôi Đội
+李叔=Lý thúc
+崔袁=Thôi Viên
+崔前辈=Thôi tiền bối
+沈掌柜=Thẩm chưởng quỹ
+胡兄弟=Hồ huynh đệ

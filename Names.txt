@@ -63836,7 +63836,6 @@
 阿华=A Hoa
 阿南=A Nam
 阿发=a Phát
-阿吉=Archie
 阿含=A Hàm
 阿呆=A Ngốc
 阿四=a Tứ
@@ -67169,3 +67168,15 @@
 春风堂=Xuân Phong Đường
 岩须丹=Nham Tu Đan
 岩须虫=Nham Tu Trùng
+张玉=Trương Ngọc
+绣儿=Tú Nhi
+崔武然=Thôi Vũ Nhiên
+翻沙散盟=Phiên Sa Tán Minh
+驻地坊=Trú Địa Phường
+行商坊=Hành Thương Phường
+黑土坊=Hắc Thổ Phường
+阿吉=A Cát
+黑河神=Hắc Hà Thần
+冥月神=Minh Nguyệt Thần
+秦赵=Tần Triệu
+黑河神教=Hắc Hà Thần Giáo
