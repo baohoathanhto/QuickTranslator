@@ -59040,7 +59040,6 @@
 神徒=Thần Đồ
 神息=Thần Tức
 神户=Kobe
-神教=Thần Giáo
 神斧=Thần Phủ
 神族=Thần Tộc
 神明=Thần Minh
@@ -67180,3 +67179,8 @@
 冥月神=Minh Nguyệt Thần
 秦赵=Tần Triệu
 黑河神教=Hắc Hà Thần Giáo
+黑河神使=Hắc Hà Thần Sứ
+土察=Thổ Sát
+李狭=Lý Hiệp
+冥月神使=Minh Nguyệt Thần Sứ
+避煞符=Tị Sát Phù
