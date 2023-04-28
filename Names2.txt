@@ -391,3 +391,10 @@
 崔前辈=Thôi tiền bối
 沈掌柜=Thẩm chưởng quỹ
 胡兄弟=Hồ huynh đệ
+鲁大师=Lỗ đại sư
+石道友=Thạch đạo hữu
+姓阮=họ Nguyễn
+姓曲=họ Khúc
+顾道友=Cố đạo hữu
+文道友=Văn đạo hữu
+文某=Văn mỗ
