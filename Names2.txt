@@ -398,3 +398,13 @@
 顾道友=Cố đạo hữu
 文道友=Văn đạo hữu
 文某=Văn mỗ
+崔某=Thôi mỗ
+花道友=Hoa đạo hữu
+月管事=Nguyệt quản sự
+廖老=Liêu lão
+月姑娘=Nguyệt cô nương
+王氏=Vương thị
+姓月=họ Nguyệt
+海长老=Hải trưởng lão
+朱师妹=Chu sư muội
+陈师兄=Trần sư huynh

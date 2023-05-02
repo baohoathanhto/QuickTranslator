@@ -21361,7 +21361,6 @@
 在哈梯=Tại Cáp Thê
 在地阶=trên Địa Giai
 在家明=tại Gia Minh
-在归元=ở Quy Nguyên
 在道佛=tại Đạo Phật
 圭亚那=Khuê Á Na
 圭内德=Gwynedd
@@ -56788,7 +56787,6 @@
 沙莱=Chaley
 沙蒂=Shady
 沙蒙=Salmont
-沙虫=Sa Trùng
 沙迪=Chadi
 沙铁=Sa Thiết
 沙长=Sa Trường
@@ -67194,3 +67192,19 @@
 苦桐木=Khổ Đồng Mộc
 穿岩甲=Xuyên Nham Giáp
 松涛石=Tùng Đào Thạch
+紫雷城=Tử Lôi Thành
+黄沙派=Hoàng Sa Phái
+月蓉=Nguyệt Dung
+厚土二相阵=Hậu Thổ Nhị Tướng Trận
+赤金蜈蚣=Xích Kim Ngô Công
+廖中=Liêu Trung
+黄涎蜥=Hoàng Tiên Tích
+林颇=Lâm Pha
+火鸟符=Hỏa Điểu Phù
+金蜈=Kim Ngô
+烟丝虫=Yên Ti Trùng
+炎鳞矿=Viêm Lân Khoáng
+燎原火=Liệu Nguyên Hỏa
+朱思=Chu Tư
+沈芒星=Thẩm Mang Tinh
+陈尚=Trần Thượng
