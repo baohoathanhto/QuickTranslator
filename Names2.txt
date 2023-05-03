@@ -408,3 +408,6 @@
 海长老=Hải trưởng lão
 朱师妹=Chu sư muội
 陈师兄=Trần sư huynh
+方道友=Phương đạo hữu
+何师妹=Hà sư muội
+龚师兄=Cung sư huynh
