@@ -67213,3 +67213,4 @@
 富儿=Phú Nhi
 方大富=Phương Đại Phú
 白瞎=Bạch Hạt
+西域=Tây Vực

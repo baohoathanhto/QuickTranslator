@@ -411,3 +411,8 @@
 方道友=Phương đạo hữu
 何师妹=Hà sư muội
 龚师兄=Cung sư huynh
+戎人=người Nhung
+北戎人=người Bắc Nhung
+龚大人=Cung đại nhân
+木离身体=Mộc Ly thân thể
+木离心脏=Mộc Ly trái tim
