@@ -5786,7 +5786,6 @@
 喜马拉雅=Himalaya
 喬修斯特=Joe Shuster
 嗜火灵蜥=Thị Hỏa Linh Tích
-嗜血杀戮=Thị Huyết Sát Lục
 嗜血魔花=Thị Huyết Ma Hoa
 嘉兰诺德=Galanodel
 嘉拉迪雅=Galatea
@@ -67214,3 +67213,13 @@
 方大富=Phương Đại Phú
 白瞎=Bạch Hạt
 西域=Tây Vực
+眦猪兽=Tí Trư Thú
+冯陵=Phùng Lăng
+韦常=Vi Thường
+花粼豹=Hoa Lân Báo
+撼地术=Hám Địa Thuật
+金翎刀=Kim Linh Đao
+固脉丹=Cố Mạch Đan
+周壮=Chu Tráng
+冯周=Phùng Chu
+无垢城=Vô Cấu Thành
