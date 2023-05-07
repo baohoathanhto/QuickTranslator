@@ -35360,7 +35360,6 @@
 破碎刀=Phá Toái Đao
 破碎境=Phá Toái Cảnh
 破神枪=Phá Thần Thương
-破空斩=Phá Không Trảm
 破空环=Phá Không Hoàn
 破空舞=Phá Không Vũ
 破篮子=Phá Lam Tử
@@ -42428,7 +42427,6 @@
 金则诀=Kim Tắc Quyết
 金刚决=Kim Cương Quyết
 金刚印=Kim Cương Ấn
-金刚拳=Kim Cương Quyền
 金刚梭=Kim Cương Toa
 金刚炎=Kim Cương Viêm
 金刚经=Kim Cương Kinh
@@ -47362,7 +47360,6 @@
 乌蛇=Xà Ô
 乌邦=Houben
 乌里=Oury
-乌金=Ô Kim
 乌霄=Ô Tiêu
 乌飞=Ô Phi
 乍得=Chad
@@ -67223,3 +67220,4 @@
 周壮=Chu Tráng
 冯周=Phùng Chu
 无垢城=Vô Cấu Thành
+陈家堡=Trần Gia Bảo
