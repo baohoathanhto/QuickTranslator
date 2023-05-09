@@ -421,3 +421,5 @@
 冯道友=Phùng đạo hữu
 白岩狸=Bạch Nham Ly
 陈某=Trần mỗ
+西域人=người Tây Vực
+北漠人=người Bắc Mạc
