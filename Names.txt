@@ -67267,3 +67267,8 @@
 土行靴=Thổ Hành Ngoa
 吞火功=Thôn Hỏa Công
 锻体讲=Đoán Thể Giảng
+灵风城=Linh Phong Thành
+五雷城=Ngũ Lôi Thành
+灵风殿=Linh Phong Điện
+金蛇缠绕阵=Kim Xà Triền Nhiễu Trận
+厚土磐石阵=Hậu Thổ Bàn Thạch Trận
