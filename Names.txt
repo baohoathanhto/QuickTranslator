@@ -47558,7 +47558,6 @@
 云瑶=Vân Dao
 云生=Vân Sinh
 云痕=Vân Ngân
-云盘=Vân Bàn
 云督=Vân Đốc
 云秀=Vân Tú
 云秦=Vân Tần
@@ -67157,7 +67156,6 @@
 冥月神=Minh Nguyệt Thần
 秦赵=Tần Triệu
 黑河神教=Hắc Hà Thần Giáo
-黑河神使=Hắc Hà Thần Sứ
 土察=Thổ Sát
 李狭=Lý Hiệp
 避煞符=Tị Sát Phù
@@ -67367,3 +67365,9 @@
 破幻妖瞳=Phá Huyễn Yêu Đồng
 鲲鹏飞车=Côn Bằng Phi Xa
 大黑天神掌=Đại Hắc Thiên Thần Chưởng
+梦魇魔笛=Mộng Yểm Ma Địch
+同尘=Đồng Trần
+千幻宝镜=Thiên Huyễn Bảo Kính
+方弘儒=Phương Hoằng Nho
+银崆=Ngân Không
+银空树妖=Ngân Không Thụ Yêu
