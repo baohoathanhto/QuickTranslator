@@ -216,7 +216,7 @@
 此=thử
 智=trí
 谋=mưu
-武=vũ
+武=võ
 功=công
 选=tuyển
 小=tiểu
@@ -1335,7 +1335,7 @@
 急=cấp
 逞=sính
 踪=tung
-顶=đính
+顶=đỉnh
 晴=tình
 涛=đào
 祥=tường
@@ -1846,7 +1846,7 @@
 典=điển
 涉=thiệp
 曰=viết
-辟=ích
+辟=tịch
 籍=tịch
 蕾=lôi
 岭=lĩnh
