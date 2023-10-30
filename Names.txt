@@ -19822,7 +19822,6 @@
 古向羽=Cổ Hướng Vũ
 古地亚=Gudea
 古域令=Cổ Vực Lệnh
-古堡里=trong Cổ Bảo
 古塔林=Cổ Tháp Lâm
 古墓府=Cổ Mộ Phủ
 古墓派=phái Cổ Mộ
@@ -29939,7 +29938,6 @@
 林留胜=Lâm Lưu Thắng
 林白原=Lâm Bạch Nguyên
 林白徐=Lâm Bạch Từ
-林白眉=Lâm Bạch Mi
 林百花=Lâm Bách Hoa
 林盈盈=Lâm Doanh Doanh
 林真真=Lâm Chân Chân
@@ -48395,7 +48393,6 @@
 兰风=Lan Phong
 共工=Cộng Công
 共晶=Eutecti
-关云=Quan Vân
 关岛=đảo Guam
 关庆=Quan Khánh
 关渭=Quan Vị
@@ -54774,7 +54771,6 @@
 曹天=Tào Thiên
 曹姓=họ Tào
 曹宝=Tào Bảo
-曹家=Tào Gia
 曹寅=Tào Dần
 曹岩=Tào Nham
 曹峰=Tào Phong
@@ -58949,7 +58945,6 @@
 神衣=Thần Y
 神诀=Thần Quyết
 神象=Thần Tượng
-神道=Thần Đạo
 神都=Thần Đô
 神阙=Thần Khuyết
 神霄=Thần Tiêu
@@ -59647,7 +59642,6 @@
 红国=Trung Quốc
 红姑=Hồng Cô
 红客=Hồng Khách
-红山=Hồng Sơn
 红慧=Hồng Tuệ
 红月=Hồng Nguyệt
 红枪=Hồng Thương
@@ -61725,7 +61719,6 @@
 虎乾=Hổ Kiền
 虎儿=Hổ Nhi
 虎爷=Hổ Gia
-虎牙=Hổ Nha
 虎牢=Hổ Lao
 虎王=Hổ Vương
 虎符=Hổ Phù
@@ -65199,7 +65192,6 @@
 魔国=Ma Quốc
 魔圣=Ma Thánh
 魔域=Ma Vực
-魔婴=Ma Anh
 魔宗=Ma Tông
 魔宫=Ma Cung
 魔尊=Ma Tôn
@@ -66634,7 +66626,6 @@
 警心钟=Cảnh Tâm Chung
 警心印=Cảnh Tâm Ấn
 兀罗=Ngột La
-镇魂壶=Trấn Hồn Hũ
 夕苍穹=Tịch Thương Khung
 破云钟=Phá Vân Chuông
 奇伟=Kỳ Vĩ
@@ -66739,7 +66730,6 @@
 火元宗=Hỏa Nguyên Tông
 赤火心法=Xích Hỏa Tâm Pháp
 藏元术=Tàng Nguyên Thuật
-影儿=Ảnh Nhi
 冠辰=Quan Thần
 付瑶=Phó Dao
 龙涎珠=Long Tiên Châu
@@ -67717,3 +67707,32 @@
 黑伽罗=Hắc Già La
 天子封神拳=Thiên Tử Phong Thần Quyền
 眼魔=Nhãn Ma
+万里传讯符=Vạn Lý Truyền Tin Phù
+迷途草=Mê Đồ Thảo
+万疆图=Vạn Cương Đồ
+炼魔阵=Luyện Ma Trận
+同心玉=Đồng Tâm Ngọc
+瀚宇=Hãn Vũ
+刘瀚宇=Lưu Hãn Vũ
+古亚力=Cổ Á Lực
+荷查=Hà Tra
+夏尚=Hạ Thượng
+曹相清=Tào Tương Thanh
+雾霭迷山=Vụ Ải Mê Sơn
+霸王宗=Bá Vương Tông
+云荒盟=Vân Hoang Minh
+护魂符=Hộ Hồn Phù
+镇魂壶=Trấn Hồn Hồ
+天音子=Thiên Âm Tử
+白楠山=Bạch Nam Sơn
+冰幽=Băng U
+慕晚春=Mộ Vãn Xuân
+望气之术=Vọng Khí Chi Thuật
+鬼王幡=Quỷ Vương Phiên
+黑泥殿=Hắc Nê Điện
+夕林=Tịch Lâm
+东流=Đông Lưu
+夕南山=Tịch Nam Sơn
+青灵传讯符=Thanh Linh Truyền Tin Phù
+天芒针=Thiên Mang Châm
+元神牌=Nguyên Thần Bài
