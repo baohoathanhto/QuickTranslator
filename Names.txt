@@ -46934,7 +46934,6 @@
 七境=Thất Cảnh
 七妙=Thất Diệu
 七宝=Thất Bảo
-七排=Thất Bài
 七星=Thất Tinh
 七杀=Thất Sát
 七殿=Thất Điện
@@ -67859,3 +67858,9 @@
 青玄坛=Thanh Huyền Đàn
 法相=Pháp Tướng
 善功堂=Thiện Công Đường
+毛颐=Mao Di
+五行长生功=Ngũ Hành Trường Sinh Công
+先天洞玄诀=Tiên Thiên Động Huyền Quyết
+幻音诀=Huyễn Âm Quyết
+星云变=Tinh Vân Biến
+混元真功=Hỗn Nguyên Chân Công
